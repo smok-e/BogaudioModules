@@ -2,6 +2,9 @@
 
 Modules for [VCV Rack](https://github.com/VCVRack/Rack), an open-source Eurorack-style virtual modular synthesizer:
 
+  -test for dark mode: 
+  ![modules screenshot](./doc/www/Bog_dark_mix_1.jpg)
+  
   - [Oscillators](#oscillators)
   - [LFOs](#lfos)
   - [Envelopes and Envelope Utilities](#envelopes)
